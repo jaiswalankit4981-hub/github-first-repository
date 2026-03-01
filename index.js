@@ -4,3 +4,6 @@ const DOB='11/9/2007';
 function isAbove18(){
     return age>=18
 }
+function newnigga(){
+    console.log('heyi niggu')
+}
