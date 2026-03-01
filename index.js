@@ -1,5 +1,5 @@
 const age=18;
-const name="ankit";
+const name="ankit yoi";
 const DOB='11/9/2007';
 const name2= 'nigger';
 function isAbove18(){
